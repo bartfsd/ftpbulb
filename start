@@ -1,0 +1,5 @@
+mkdir heart-rate-light
+cd heart-rate-light
+
+git init
+npx create-next-app@latest . --typescript --tailwind --eslint
